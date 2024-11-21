@@ -44,7 +44,7 @@ plt.imshow(image_rgb)
 plt.title("Original Image")
 plt.axis("off")
 ```
-![image](https://github.com/user-attachments/assets/bd6fd34e-a303-4e1b-92dc-8ab4697ea038)
+![image](https://github.com/user-attachments/assets/e33f944a-6ec7-4992-a983-d4fdff62639f)
 
 ## Use Opening operation
 ```python
@@ -54,7 +54,7 @@ plt.imshow(opening_image_rgb)
 plt.title("Opening Operation")
 plt.axis("off")
 ```
-![image](https://github.com/user-attachments/assets/7f384cc8-be52-40e4-ac65-ecbfe960a9c0)
+![image](https://github.com/user-attachments/assets/50be819a-5c2e-42aa-815c-57036f28d121)
 
 
 ## Use Closing Operation
@@ -65,7 +65,7 @@ plt.imshow(closing_image_rgb)
 plt.title("Closing Operation")
 plt.axis("off")
 ```
-![image](https://github.com/user-attachments/assets/aa67734b-1272-4ba2-b3fa-b45094eeacdd)
+![image](https://github.com/user-attachments/assets/19ecc437-3614-42e5-8493-2a22b54c4409)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
